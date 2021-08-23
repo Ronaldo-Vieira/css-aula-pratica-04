@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+#caixa_Normal{
+    width: 400px;
+    background-color: #BF1F1F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    color: white;
+}
+#caixa_com_box_model_01{
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #F5F5DC;
+    margin: 5px;
+    background-color: #BF1F1F;
+    font-size: 12px;
+    text-align: left;
+    color: #4B0082;
+}
+#caixa_com_box_model_02{
+    width: 345px;
+    padding: 20px;
+    border: 7px dotted RGB(139,0,139);
+    margin: 15px auto;
+    background-color: AliceBlue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: RGB(25,25,112);
+    text-align: right;
+    
+}

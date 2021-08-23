@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+#caixa01{
+    width: 300px;
+    background-color: saddlebrown;
+    color: white;
+}
+#caixa02{
+    width: 300px;
+    background-color: seagreen;
+    color: white;
+}

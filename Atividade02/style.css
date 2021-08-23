@@ -1,0 +1,15 @@
+#caixa{
+    display: inline-flex;
+}
+#div01{
+    padding: 50px;
+    background-color: violet;
+}
+#div02{
+    padding: 50px;
+    background-color: wheat;
+}
+#div03{
+    padding: 50px;
+    background-color: rgb(173, 60, 60);
+}
